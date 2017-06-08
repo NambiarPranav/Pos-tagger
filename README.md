@@ -8,4 +8,5 @@ Place them in the same directory and run them
 
 # New features to come
 For now the tagger only works on the test.txt data and also tags are in the  form not normally used by humans.
+
 Gonna change the tags back to the normal human tagging form and also will enable human input
