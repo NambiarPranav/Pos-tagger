@@ -6,6 +6,9 @@ Download the test.txt,train.txt and tags along with the actual program file pos.
 
 Place them in the same directory and run them
 
+# How does it work
+It uses the Viterbi algorithm implementation of hmm to predict the  tags
+
 # New features to come
 For now the tagger only works on the test.txt data and also tags are in the  form not normally used by humans.
 
